@@ -231,25 +231,28 @@ Stakeholders [Table 2](#table2) have different interests in and expectations for
 ### <a id="table2"></a>Table 2: VA Stakeholders
 
 Office of Information and Technology (OIT)
-| **Team** | **Contact** | **Proxy** | **Role** |
-| ---------- | ------- | ------------------------------------------ | -------- |
-| Dr. Rafael Richards | Rafael.Richards@va.gov<br>202-469-1527 | Cheryl Owsley | Business Owner |
-| Christopher Brown | Christopher.brown1@va.gov | Cheryl Owsley | System Owner |
-| Cheryl Owsley | Cheryl.Owsley@va.gov | Dr. Richards | VA Project Manager (PM) |
-| Dana Newcomb | Dana.Newcomb@va.gov<br>732-440-9680 | Josh McGarry | Contracting Officer |
-| Amanda J. Bleses | Amanda.Bleses@va.gov<br>732-795-1054 | Cheryl Owsley | Contract Specialist |
-| Robert Goode | Robert.Goode@va.gov<br>202-461-4304 | Cheryl Owsley | Contracting Officer’s Representative (COR) |
-| Bobbi Begay | Bobbi.Begay@va.gov | Cheryl Owsley | Information Security Officer |
+
+| **Team**            | **Contact**                            | **Proxy**     | **Role**                                   |
+| ------------------- | -------------------------------------- | ------------- | ------------------------------------------ |
+| Dr. Rafael Richards | Rafael.Richards@va.gov<br>202-469-1527 | Cheryl Owsley | Business Owner                             |
+| Christopher Brown   | Christopher.brown1@va.gov              | Cheryl Owsley | System Owner                               |
+| Cheryl Owsley       | Cheryl.Owsley@va.gov                   | Dr. Richards  | VA Project Manager (PM)                    |
+| Dana Newcomb        | Dana.Newcomb@va.gov<br>732-440-9680    | Josh McGarry  | Contracting Officer                        |
+| Amanda J. Bleses    | Amanda.Bleses@va.gov<br>732-795-1054   | Cheryl Owsley | Contract Specialist                        |
+| Robert Goode        | Robert.Goode@va.gov<br>202-461-4304    | Cheryl Owsley | Contracting Officer’s Representative (COR) |
+| Bobbi Begay         | Bobbi.Begay@va.gov                     | Cheryl Owsley | Information Security Officer               |
+
 Team Ablevets
-| **Team** | **Contact** | **Proxy** | **Role** |
-| ---------- | ------- | ------------------------------------------ | -------- |
-| Jeff Miller | Jeffrey.Miller7@va.gov<br>703-400-6859 | Avinay Vaswani | Account Vice President, AbleVets |
-| Tom Willcox | Tom.Willcox@ablevets.com<br>703-915-7688 | Savio Mendosa | CIO, AbleVets |
-| Jim McCartin | James.McCartin@ablevets.com<br>703-898-8884 | Avinay Vaswani | Portfolio Director, AbleVets |
-| Savio Mendonsa | Savio.Mendonsa@va.gov<br>571-385-0048 | Christy Lentile | PM, AbleVets |
-| Conor Dowling | Conor.Dowling@va.gov<br>310-980-7954 | Mike Furoyama | Software Architect, Caregraf |
-| Renton Nip | RNip@hawaiirg.com<br>808-927-0999 | Mike Furoyama | Manager, HRG |
-| Mike Furoyama | Michael.Furoyama@va.gov | Conor Dowling | Sr. Developer, HRG |
+
+| **Team**       | **Contact**                                 | **Proxy**       | **Role**                         |
+| -------------- | ------------------------------------------- | --------------- | -------------------------------- |
+| Jeff Miller    | Jeffrey.Miller7@va.gov<br>703-400-6859      | Avinay Vaswani  | Account Vice President, AbleVets |
+| Tom Willcox    | Tom.Willcox@ablevets.com<br>703-915-7688    | Savio Mendosa   | CIO, AbleVets                    |
+| Jim McCartin   | James.McCartin@ablevets.com<br>703-898-8884 | Avinay Vaswani  | Portfolio Director, AbleVets     |
+| Savio Mendonsa | Savio.Mendonsa@va.gov<br>571-385-0048       | Christy Lentile | PM, AbleVets                     |
+| Conor Dowling  | Conor.Dowling@va.gov<br>310-980-7954        | Mike Furoyama   | Software Architect, Caregraf     |
+| Renton Nip     | RNip@hawaiirg.com<br>808-927-0999           | Mike Furoyama   | Manager, HRG                     |
+| Mike Furoyama  | Michael.Furoyama@va.gov                     | Conor Dowling   | Sr. Developer, HRG               |
 
 At a strategic level, the VA PM is responsible for providing the overall programmatic direction to Team AbleVets. The VA PM and COR are the final approval authority for all VAM deliverables. In addition, the VA PM is responsible for:
 
