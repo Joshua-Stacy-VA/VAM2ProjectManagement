@@ -247,7 +247,7 @@ Team Ablevets
 | **Team**       | **Contact**                                 | **Proxy**       | **Role**                         |
 | -------------- | ------------------------------------------- | --------------- | -------------------------------- |
 | Jeff Miller    | Jeffrey.Miller7@va.gov<br>703-400-6859      | Avinay Vaswani  | Account Vice President, AbleVets |
-| Tom Willcox    | Tom.Willcox@ablevets.com<br>703-915-7688    | Savio Mendosa   | CIO, AbleVets                    |
+| Tom Willcox    | Tom.Willcox@ablevets.com<br>703-915-7688    | Savio Mendonsa  | CIO, AbleVets                    |
 | Jim McCartin   | James.McCartin@ablevets.com<br>703-898-8884 | Avinay Vaswani  | Portfolio Director, AbleVets     |
 | Savio Mendonsa | Savio.Mendonsa@va.gov<br>571-385-0048       | Christy Lentile | PM, AbleVets                     |
 | Conor Dowling  | Conor.Dowling@va.gov<br>310-980-7954        | Mike Furoyama   | Software Architect, Caregraf     |
