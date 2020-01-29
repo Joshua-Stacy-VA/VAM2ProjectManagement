@@ -422,6 +422,6 @@ The impact to the project if a risk occurs is estimated in terms of the criteria
 
 The severity of a risk is determined by its probability and impact. Severity is calculated by the likelihood of occurrence and impact using the Risk Severity Matrix ([Table 5](#table5)). Risks that fall within the red zone (high risk) are documented, and the response from Program Management is used to determine the necessity of a code change. If the risk mitigation requires development work, it will be added to the project backlog.
 
-### <a id="table5"></a>Table 5: Risk Severity Matrix {#table5}
+### <a id="table5"></a>Table 5: Risk Severity Matrix
 
 ![Risk severity chart](media/riskSeverityMatrix.png)
